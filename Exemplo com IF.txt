@@ -1,0 +1,4 @@
+if( "diametro" = 50, 'PVC PBA', if( "diametro" = 100, 'PVC PBA',if( "diametro" = 150, 'DEFoFo', if( "diametro" = 200, 'DEFoFo', ' ') ) ) ) 
+
+
+ 
